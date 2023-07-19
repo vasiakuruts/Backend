@@ -1,0 +1,72 @@
+export const users = [
+  {
+    "_id": "64b829f9770a87485e12aa09",
+    "isActive": true,
+    "balance": "$3,309.73",
+    "picture": "http://placehold.it/32x32",
+    "age": 39,
+    "eyeColor": "green",
+    "name": "Fletcher Mcclure",
+    "gender": "male",
+    "company": "ZOLARITY",
+    "email": "fletchermcclure@zolarity.com",
+    "phone": "+1 (915) 546-2814",
+    "address": "406 Tudor Terrace, Kiskimere, American Samoa, 2734"
+  },
+  {
+    "_id": "64b829f9a7d2c5766d6d3c20",
+    "isActive": true,
+    "balance": "$2,504.12",
+    "picture": "http://placehold.it/32x32",
+    "age": 37,
+    "eyeColor": "blue",
+    "name": "Hazel Key",
+    "gender": "female",
+    "company": "BUZZMAKER",
+    "email": "hazelkey@buzzmaker.com",
+    "phone": "+1 (898) 495-3891",
+    "address": "178 Branton Street, Saranap, Michigan, 8169"
+  },
+  {
+    "_id": "64b829f93c383a1202a77d32",
+    "isActive": true,
+    "balance": "$3,392.74",
+    "picture": "http://placehold.it/32x32",
+    "age": 29,
+    "eyeColor": "brown",
+    "name": "Catherine Moon",
+    "gender": "female",
+    "company": "FANFARE",
+    "email": "catherinemoon@fanfare.com",
+    "phone": "+1 (924) 522-3871",
+    "address": "273 Waldane Court, Dunbar, California, 9423"
+  },
+  {
+    "_id": "64b829f9eb7e7a11740f085b",
+    "isActive": false,
+    "balance": "$1,219.76",
+    "picture": "http://placehold.it/32x32",
+    "age": 23,
+    "eyeColor": "blue",
+    "name": "Berger Farley",
+    "gender": "male",
+    "company": "PLEXIA",
+    "email": "bergerfarley@plexia.com",
+    "phone": "+1 (821) 405-2126",
+    "address": "648 Wolf Place, Kula, New York, 9129"
+  },
+  {
+    "_id": "64b829f90440fad694ba2582",
+    "isActive": true,
+    "balance": "$3,005.43",
+    "picture": "http://placehold.it/32x32",
+    "age": 22,
+    "eyeColor": "green",
+    "name": "Mosley Pace",
+    "gender": "male",
+    "company": "APPLICA",
+    "email": "mosleypace@applica.com",
+    "phone": "+1 (895) 486-3616",
+    "address": "156 Ford Street, Winfred, Montana, 9096"
+  }
+]
